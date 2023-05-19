@@ -20,8 +20,13 @@ To manually create a catchup commit:
 Make a trivial change to the .streak file
 
 Commit the change
+
 Amend the commit date: git commit --amend --date="$(date -R MMDDhhmm YY)"
+
 How to Contribute
+
 Fork this repository
+
 Submit a pull request
+
 Will add to this list...
